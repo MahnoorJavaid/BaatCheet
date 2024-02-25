@@ -28,17 +28,8 @@ BaatCheet is an AI-enhanced online communication tool designed to facilitate sea
 - PyCharm or compatible Python IDE
 - Required Python libraries (specified in `requirements.txt`)
 
-**Contributing:**
-Contributions to BaatCheet are welcome! If you have any suggestions, bug fixes, or feature enhancements, feel free to submit a pull request.
-
-**License:**
-This project is licensed under the [MIT License](LICENSE).
-
-**Acknowledgements:**
-Special thanks to all contributors and supporters who have helped make BaatCheet possible.
 
 **Contact:**
-For any inquiries or feedback, please contact [email@example.com].
+For any inquiries or feedback, please contact [mahnoor.javaid.04@gmail.com].
 
-**Note:**
-Please ensure that you have the necessary permissions and licenses to use any third-party libraries or resources included in this project.
+
